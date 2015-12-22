@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Madisonbvcp]]></title>
-        <description><![CDATA[Madisonbvcp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Our Journey with BVCP]]></title>
+        <description><![CDATA[Our Journey with BVCP]]></description>
+        <link>https://thegrid.ai/madisonbvcp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 16:51:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 17:13:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madisonbvcp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lh3.googleusercontent.com/MDxhkx2r-ac36wcLsFJL472W_YarZC6oTw80X8UFiUVt6-SATB4mPqZgFSfAbBEcbBnMgLPwEJtes8jiQnRQ_Xq-bck5v_LMy2OpCe23OpVJiZKMO8fnR3t5Vg5vvOuMihQciIVxWaRHYzSiXi2dM5imqA4WQJjgygNiK2RYP62UshU7SWc0vxRW3w4gztcj4xXaiVMN6cJvvkkKTMj89HRZYIQScJEhbZ0_whiXTTDP-9QmVcnmPPQTdOfAStFeiUI6_37ECGmH8n5fzMYHjv21ZxiPciHk2-BJhnQH442KaOm9uSisJt70eSIpuOlUgH0SsD3ENwVhaip-5m9_ZgRIodrlGGy73T2FN7oBT8GOD95isCblh9itVyaY3UfKINT-QmAXDly103m9ECkeqouw3iv8DUDSXyvQXaxZYiakd9BUe8bcm2a4YNgBQT5jrrwlDbCXaaWPS6Xw1d6VGlwbT-1w5ysEqsIhuiuTGwbiHr_FigOISlg7qDupEF5UWxd4QyxJfv1dpq-6623owiBKh4F_N9qg3pQvYX8O9NXWCAhSYuxpU4UC8EEYZhWtFd0L0A=w1834-h1376-no">]]></description>
+            <link>https://photos.google.com/photo/AF1QipOqYR_k2KAnM1cz6lejQr3unM5Sez8BEaxpxxta</link>
+            <guid isPermaLink="false">ac7234e1-c73f-40dc-8612-2e7276d5cc1c</guid>
+            <pubDate>Tue, 22 Dec 2015 17:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction]]></title>
             <description><![CDATA[<article><h1>Introduction</h1><p>Hi all, this blog is for our friends and family to follow along on our journey with baby Madison and some of the unique challenges she's faced. Hopefully this can also be a resource to any families who find themselves in a similar situation and are looking for answers or just support.</p></article>]]></description>
-            <link>undefinedmadisons-first-day/index.html</link>
+            <link>https://thegrid.ai/madisonbvcp/madisons-first-day/index.html</link>
             <guid isPermaLink="false">107fac72-58f8-4975-b0bb-4607e8f90271</guid>
             <pubDate>Tue, 22 Dec 2015 16:51:18 GMT</pubDate>
         </item>
