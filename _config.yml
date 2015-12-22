@@ -1,0 +1,28 @@
+name: Madisonbvcp
+favicon: null
+layout_spectrum: 0.9634935378562659
+typography_spectrum: 0.9496764079667628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.42874430399388075
+  lightness: 0.6574083615560085
+  saturation: 0.6875904544722289
+  rhythmicContrast: 0.2649176917038858
+purpose: []
